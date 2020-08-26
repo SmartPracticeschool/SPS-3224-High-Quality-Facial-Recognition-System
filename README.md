@@ -17,7 +17,7 @@ High Quality Facial Recognition System using anaconda, Visual studio, Cmake, Dli
 
 Dlib             --pip install dlib 
 
-Face-recognition –pip install face-recognition
+Face-recognition -–pip install face-recognition
 
 
 
