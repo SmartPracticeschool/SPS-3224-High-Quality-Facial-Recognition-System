@@ -7,7 +7,7 @@ High Quality Facial Recognition System using anaconda, Visual studio, Cmake, Dli
 
 
 
-<h3>Required Installations run these commands in anaconda prompt:</h3>
+<h3>Required Installations (run these commands in anaconda prompt):</h3>
 
 OpenCV           --pip install opencv-contrib-python
 
